@@ -1,6 +1,6 @@
-# Today I Learned by *[Nombre]*
+# Today I Learned by *Erik Parra Santillán*
 
-Ruby and Rails official documentation reading personal journal
+React Native official documentation reading personal journal
 
 ## Week 1
 
