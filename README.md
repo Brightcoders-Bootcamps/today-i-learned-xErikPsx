@@ -18,3 +18,6 @@ which it consist to improve the quality of our code, using tools like Linters an
 
 ### Wen 29, July 2020 *JavaScript: Grammar and types*
 Today I read about some basics things from JavaScript, like the grammar, how it strctured, the Unicode use, and even the statesments. I alse read about all the declaration and the scope and uses from variables like, "var", "let", "conts" and why they're so different.
+
+### Wen 30, July 2020 *React Native: Workflow - Running on Device*
+So, I wanted to learn how to build my app wirelessly because I use my phone for builiding the apps, and having my device connected to my pc is kinda unconfortable, so I read that you can use the developer server over WiFi, you only need to build your app once using the usb connection and then confoguring it by the command promt and making some changes in your davice, so this will connect the divices to the server by using and IP address.
