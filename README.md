@@ -36,3 +36,5 @@ Today I learned about functions in JS. In this language is important to reuse co
 ### Wen 5, August 2020 *React Native: Layout with Flexbox*
 Today I learned about the layout with flexbox in react native. In RN we use flex to define how we want to plece our elements inside our components. It has several properties for the views, like "flex:n", where the number devides proportionally the view. It has also "flexDirection" that manages the direction the the elements will ordenate, it can be as columns or rows.
 
+### Tue 6, August 2020 *JavaScript: Events*
+Today read about events. When you're on the web, you have interactivity, this interaction is handled with the "events". An event can be, for example, a click from your mouse, type a charachter or even using the scroll from the mouse. You can use these events on your code as if were invoking a function.
