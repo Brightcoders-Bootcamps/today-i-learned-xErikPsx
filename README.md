@@ -25,7 +25,10 @@ So, I wanted to learn how to build my app wirelessly because I use my phone for 
 ### Fri 31, July 2020 *JavaScript: Arrays*
 Today I read about the Array object in JS, this array it's like a list og elements who hase a lot of methods tha can be used on it and make different kind of operations. This array stores data that is fully mutable, this means that is bolatile to any changes and aren't as dense as an object. The arrays only uses integer numbers as indexes, if you don't make the reference to a number, you won't get any data.
 
-## Week 2
+## Week 3
 
 ### Mon 3, August 2020 *React Native: Styles*
 Today I learned about styles in RN. In react native you need to use a prop calles "styles", in this prop, you basically create an object that contains all the styles properties as we do in CSS, but in this case using them with cammel case instead of a dash, for example, CSS: "background-color", in RN: "backgroundColor". The model box of react native is based with flexbox, so we can use all the properties we use to use too here.
+
+### Thu 4, August 2020 *JavaScript: Functions*
+Today I learned about functions in JS. In this language is important to reuse code you write, so you can save a lot of time of writing. In these functions you use to take arguments to acces data that you'll need to make it work, this can be any variable that this function could scope, you can even declare multiple functions inside a function.
