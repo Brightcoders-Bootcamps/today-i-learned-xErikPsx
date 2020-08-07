@@ -32,3 +32,7 @@ Today I learned about styles in RN. In react native you need to use a prop calle
 
 ### Thu 4, August 2020 *JavaScript: Functions*
 Today I learned about functions in JS. In this language is important to reuse code you write, so you can save a lot of time of writing. In these functions you use to take arguments to acces data that you'll need to make it work, this can be any variable that this function could scope, you can even declare multiple functions inside a function.
+
+### Wen 5, August 2020 *React Native: Layout with Flexbox*
+Today I learned about the layout with flexbox in react native. In RN we use flex to define how we want to plece our elements inside our components. It has several properties for the views, like "flex:n", where the number devides proportionally the view. It has also "flexDirection" that manages the direction the the elements will ordenate, it can be as columns or rows.
+
