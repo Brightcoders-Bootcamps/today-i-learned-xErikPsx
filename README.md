@@ -41,3 +41,8 @@ Today read about events. When you're on the web, you have interactivity, this in
 
 ### Fri 7, August 2020 *React Native: Images*
 Today I learned about managin images in RN. Due to there's two operative systems involved in the react native development, RN has a unified wey to manage the assest in Android and iOS, we implement it using it as Image component. The adventages of this is that you only have to use one file that can make reference to the three types of sizes that you need implement when doing it natively.
+
+## Week 3
+
+### Mon 10, August 2020 *JavaScript: Arrow Function*
+Today I learned about arrow functions. An arrow function has the same functionality as a normal function, but this has a shorter syntax that helps to reduce your size code. The arrow functions are normally used to implement some methods that wont be used as a constructor. You can find easily an arrow function when you see this syntax: "=>", for example, * const item => item.length *.
