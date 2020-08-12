@@ -38,3 +38,6 @@ Today I learned about the layout with flexbox in react native. In RN we use flex
 
 ### Tue 6, August 2020 *JavaScript: Events*
 Today read about events. When you're on the web, you have interactivity, this interaction is handled with the "events". An event can be, for example, a click from your mouse, type a charachter or even using the scroll from the mouse. You can use these events on your code as if were invoking a function.
+
+### Fri 7, August 2020 *React Native: Images*
+Today I learned about managin images in RN. Due to there's two operative systems involved in the react native development, RN has a unified wey to manage the assest in Android and iOS, we implement it using it as Image component. The adventages of this is that you only have to use one file that can make reference to the three types of sizes that you need implement when doing it natively.
