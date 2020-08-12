@@ -49,3 +49,6 @@ Today I learned about arrow functions. An arrow function has the same functional
 
 ### Thu 11, August 2020 *React Native: Handling Touches*
 Today I learned about how to handling touches in rn. The main interaction with the mobile apps are through the touch screen, so in rn there is a lot type of gestures that we can perform. We can manage different behaviors in every component, like in a button, a list, an image, etc. There are also some different properties like "TouchableOpacity" that gives tyou a feedback which reduces the opacity of an element to let you know that has been pressed.
+
+### Wen 12, August 2020 *JavaScript: JSON*
+Today I learned about JSON. The notation of this acronism means JavaScript Object Notation, this is a syntax for serializing arrays, numbers, strings, objects, etc. This syntax lets toy store data of almost all kinds that exist in JavaScript, for example, for storing arrays and objects, there are somo properties names that need to be doble quoted as a string.
