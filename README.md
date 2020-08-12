@@ -46,3 +46,6 @@ Today I learned about managin images in RN. Due to there's two operative systems
 
 ### Mon 10, August 2020 *JavaScript: Arrow Function*
 Today I learned about arrow functions. An arrow function has the same functionality as a normal function, but this has a shorter syntax that helps to reduce your size code. The arrow functions are normally used to implement some methods that wont be used as a constructor. You can find easily an arrow function when you see this syntax: "=>", for example, * const item => item.length *.
+
+### Thu 11, August 2020 *React Native: Handling Touches*
+Today I learned about how to handling touches in rn. The main interaction with the mobile apps are through the touch screen, so in rn there is a lot type of gestures that we can perform. We can manage different behaviors in every component, like in a button, a list, an image, etc. There are also some different properties like "TouchableOpacity" that gives tyou a feedback which reduces the opacity of an element to let you know that has been pressed.
